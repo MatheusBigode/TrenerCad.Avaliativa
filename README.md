@@ -3,7 +3,7 @@
 REQUISITOS: 
 
 - Possuir um editor de código instalado em sua máquina
-- Possui o app Expo Go instalado no seu dispositivo mobile
+- Possuir o app Expo Go instalado no seu dispositivo mobile
 
 Passos:
 
@@ -11,7 +11,7 @@ Passos:
 
 2 - Abra seu Propmt de Comando e navegue até a pasta desejada para realizar a instalação
 
-3 - Execute o seguinte código: https://github.com/MatheusBigode/TrenerCad.Avaliativa.git
+3 - Execute o seguinte código: git clone https://github.com/MatheusBigode/TrenerCad.Avaliativa.git
 
 4 - Entre na pasta criada e abra com o editor de código que preferir. (Se for o Visual Studio Code, basta digitar 'code .')
 
